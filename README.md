@@ -3,11 +3,15 @@ Hello World\
 This repository holds my programming projects done during the period of stanCode SC101 course.
 
 ## Project Source Codes:
-* [Breakout Games](https://github.com/yixuaningithub/stanCodeProjects/blob/main/stanCodeProjects/2_Coder%26User_breakout-games/breakout.py)
-  * animation & game designing
-* [Pedestrian Removing Application](https://github.com/yixuaningithub/stanCodeProjects/blob/main/stanCodeProjects/3_photoshop/stanCodoshop.py)
-  * image processing
-* [Name Popularity Searching System](https://github.com/yixuaningithub/stanCodeProjects/blob/main/stanCodeProjects/4_tkinter_web_name-searching-system/babynames.py)
-  * data structure
-* [Boggle Game Solver](https://github.com/yixuaningithub/stanCodeProjects/blob/main/stanCodeProjects/6_recursion_linked-list/boggle.py)
+* [Boggle Game Solver](https://github.com/yixuaningithub/stanCodeProjects/tree/main/stanCodeProjects/Boggle%20Game%20Solver)
   * recursive functions
+* [Breakout Games](https://github.com/yixuaningithub/stanCodeProjects/tree/main/stanCodeProjects/Breakout%20Games)
+  * animation & game designing
+* [GObect](https://github.com/yixuaningithub/stanCodeProjects/blob/main/stanCodeProjects/GObject/my_drawing.py)
+  * draw from campy
+* [Name Searching System](https://github.com/yixuaningithub/stanCodeProjects/tree/main/stanCodeProjects/Name%20Searching%20System)
+  * data structure & name popularity searching
+* [Photoshop](https://github.com/yixuaningithub/stanCodeProjects/tree/main/stanCodeProjects/Photoshop)
+  * image processing & pedestrian removing application
+* [Webcrawler](https://github.com/yixuaningithub/stanCodeProjects/blob/main/stanCodeProjects/Webcrawler/webcrawler.py)
+  * webcrawler
