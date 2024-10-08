@@ -1,10 +1,10 @@
 """
 File: my_drawing.py
-Name: Yi-Syuan Chung
+Name: Yi Syuan Chung
 ----------------------
 Title: The GOAT
 
-Roger Federer，永遠的傳奇。他的logo取自名字開頭"RF"，看起來只有"F"字，但左側加入了"R"的弧線，很有巧思。
+Roger Federer, forever legend.
 """
 
 from campy.graphics.gobjects import GOval, GRect, GPolygon
