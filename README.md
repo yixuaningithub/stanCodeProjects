@@ -7,8 +7,6 @@ This repository holds my programming projects done during the period of stanCode
   * recursive functions
 * [Breakout Games](https://github.com/yixuaningithub/stanCodeProjects/tree/main/stanCodeProjects/Breakout%20Games)
   * animation & game designing
-* [GObect](https://github.com/yixuaningithub/stanCodeProjects/blob/main/stanCodeProjects/GObject/my_drawing.py)
-  * draw from campy
 * [Name Searching System](https://github.com/yixuaningithub/stanCodeProjects/tree/main/stanCodeProjects/Name%20Searching%20System)
   * data structure & name popularity searching
 * [Photoshop](https://github.com/yixuaningithub/stanCodeProjects/tree/main/stanCodeProjects/Photoshop)
